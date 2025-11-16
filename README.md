@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi,  I'm Kavindu Alwis</h1>
-<h3 align="center">🚀 Full Stack Mobile Application Developer | Flutter Specialist</h3>
+<h1 align="center">👋 Hi,  I'm Aftab Ali Sahar</h1>
+<h3 align="center">🚀 Full Stack Mobile Application Developer | Flutter Specialist | AI, Web3 Blockchain Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&color=6E56F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Flutter+Developer;Mobile+App+Specialist;UI/UX+Enthusiast;Cloud+Architecture;Always+Learning" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 ---
 
 ## ✨ About Me
-- 🔧 **Professional Skills**: Specializing in  **Flutter**, **Dart**, **Python** and **Java** with experience in **Firebase**, **Node.js**, **Spring**, and **MongoDB**.
+- 🔧 **Professional Skills**: Specializing in  **Flutter**, **Dart**, **Python** and **Java** with experience in **Firebase**, **NodeJS**, **NextJS**, **FASTApi**, **Django**, and **MongoDB**.
 - 🌐 **Freelancer**: Delivering high-quality, client-focused projects with a commitment to excellence.
 - 💡 **Driven by Curiosity**: Constantly learning and adapting to new challenges in the ever-evolving tech world.
 - 🎓 **Learning Journey**: Aspiring to master **AI**, **ML**, and **Backend Development** for innovative solutions.
@@ -142,15 +142,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kavindualwis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kavindualwis&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aftabalisahar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aftabalisahar&theme=tokyonight" width="400"/>
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/kavindualwis/kavindualwis">
-    <img src="https://komarev.com/ghpvc/?username=kavindualwis&label=Profile%20views&color=9c27b0&style=for-the-badge" alt="kavindualwis" />
+  <a href="https://github.com/aftabalisahar/aftabalisahar">
+    <img src="https://komarev.com/ghpvc/?username=aftabalisahar&label=Profile%20views&color=9c27b0&style=for-the-badge" alt="kavindualwis" />
   </a>
 </p>
 
